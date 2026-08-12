@@ -89,4 +89,4 @@ Headcount, payroll, hiring & promotion trends, turnover rate, and a salary-vs-te
 
 This project was built to demonstrate practical, end-to-end data analytics capability — from raw data modeling assumptions through to a stakeholder-ready dashboard — and to serve as a working portfolio piece for **Operations Analyst** roles.
 
-For the full technical breakdown (library-by-library rationale, every schema decision, every DAX measure, and debugging lessons learned), see [`Real_Estate_Operations_Analytics_Technical_Documentation.md`](./Real_Estate_Operations_Analytics_Technical_Documentation.md).
+For the full technical breakdown (library-by-library rationale, every schema decision, every DAX measure, and debugging lessons learned), see [`Real_Estate_Operations_Analytics_Technical_Documentation.md`](./Real_Estate_Operations_Analytics_Technical_Documentation.pdf).
