@@ -13,17 +13,17 @@ Built as a graduation capstone project (Data Analysis Diploma, Tech Mind Academy
 ### Page 1: Executive Overview
 Total Revenue, Net Profit, Expenses, CPL/CPA, Sale vs. Rental Commission split, Revenue by Property Type & District.
 
-![Executive Overview](Dashboard_Screenshots/DashboardP1_Screenshot.png)
+![Executive Overview](Dashboard_Screenshots/Screenshot_Dashboard_P1.png)
 
 ### Page 2: Operations Analysis
 Lead-to-deal funnel, Sale vs. Rental deal cycle time (with seasonal rental patterns, peak season mid-May to mid-September), conversion rate, marketing platform performance.
 
-![Operations Analysis](Dashboard_Screenshots/DashboardP2_Screenshot.png)
+![Operations Analysis](Dashboard_Screenshots/Screenshot_Dashboard_P2.png)
 
 ### Page 3: Employees Performance
 Headcount, payroll, hiring & promotion trends, turnover rate, and a salary-vs-tenure analysis testing whether retention is actually salary-driven.
 
-![Employees Performance](Dashboard_Screenshots/DashboardP3_Screenshot.png)
+![Employees Performance](Dashboard_Screenshots/Screenshot_Dashboard_P3.png)
 
 > 📌 A key design principle throughout: **every KPI is built to be defensible**. For example, "Total Revenue" reports actual brokerage commission, not gross transacted property value, which would misrepresent the business by orders of magnitude.
 
